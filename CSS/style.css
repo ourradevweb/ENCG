@@ -227,7 +227,7 @@ nav .navbar .links li:hover .cop-sub-menu{
 /*---------------------- Home ------------------------*/
 
 section .home{
-  background-image: url(/PICTURES/cover.png);
+  background-image: url(../PICTURES/cover.png);
 }
 
 .home {
@@ -467,7 +467,7 @@ section .home{
 /* ------------------ Counter -------------------------*/
 
 .counter-up{
-  background: url(/PICTURES/encg.jpg) no-repeat;
+  background: url(../PICTURES/encg.jpg) no-repeat;
   min-height: 30vh;
   background-size: cover;
   background-attachment: fixed;
@@ -523,7 +523,7 @@ section .home{
 
 footer{
   padding: 30px 0;
-  background-image: url(/PICTURES/co.png);
+  background-image: url(../PICTURES/co.png);
   background-repeat: no-repeat;
   background-size: cover;
 
